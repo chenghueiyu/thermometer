@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="jC10oi%i$X8Oi/z{Z?=K" x="0" y="0"><statement name="HANDLER"><block type="TM650_ON" id="g:ZWAMpM0LFA5/,H@i}z"><next><block type="device_show_leds" id="C%N8]c$c|_yBQzIl=J98"><field name="LEDS">`
+        . # # . # 
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        . # # . .
+        `</field></block></next></block></statement></block><block type="device_forever" id=")Qpf$uphTRF=Vc82I@L2" x="205" y="0"><statement name="HANDLER"><block type="TM650_SHOW_NUMBER" id="X*ooG49]3WL(UQRN(:3q"><value name="num"><shadow type="math_number"><field name="NUM">100</field></shadow><block type="readdht11" id="-9mWrcS~vnRXsPu/n=I+"><field name="dht11type">ModuleWorld_Digital.DHT11Type.DHT11_temperature_C</field><field name="value_DNum">ModuleWorld_Digital.mwDigitalNum.P0P1</field></block></value></block></statement></block></xml>
